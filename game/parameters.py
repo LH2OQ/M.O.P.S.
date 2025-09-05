@@ -37,6 +37,6 @@ cellSize = 150
 colorFadeIntensity = 9
 FPS = 2
 
-images = ['img/wallpaper/pirat.png', 'img/wallpaper/seagulls.png', 'img/wallpaper/monkeys.png', 'img/wallpaper/octopus.png']
+images = ['wallpaper/pirat.png', 'wallpaper/seagulls.png', 'wallpaper/monkeys.png', 'wallpaper/octopus.png']
 
 default_font = ['Comic Sans MS', 72]
