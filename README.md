@@ -1,17 +1,16 @@
 # M.O.P.S.
 Monkeys, Octopuses, Pirates, Seagulls
 
-# To test code:
+### To test code:
 
 => cd into path/to/directory/MOPS/
 => python3 app.py
 
-### 'X':
-switch between 'an unready setting for a snake-like game','tic-tac-toe' and 'Conways Game of Life'
+'X': switch between 'an unready setting for a snake-like game','tic-tac-toe' and 'Conways Game of Life'
 
-### Arrow keys cause movement in the totally unready snake-scenario and clicking on fields runs TTT
+Arrow keys cause movement in the totally unready snake-scenario and clicking on fields runs TTT
 
-### console prints out actual 'game parameters'
+console prints out actual 'game parameters'
 
 ... I stopped working on that when NZ started to freak out too much, but at least the game of life is usuable for a screenloop.
 
